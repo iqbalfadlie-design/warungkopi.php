@@ -1,4 +1,5 @@
 <?php
+//m
 include 'koneksi.php';
 $nama=$_POST['nama'];
 $harga=$_POST['harga'];
